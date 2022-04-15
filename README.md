@@ -12,4 +12,4 @@ history: [
 ```
 Display the history at the side of the calculator.
   
-<img src="./calculator.png" width="100%" />
+<img src="./calculator.png" width="25%" />
